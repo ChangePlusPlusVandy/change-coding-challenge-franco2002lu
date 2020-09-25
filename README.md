@@ -1,4 +1,11 @@
 # Change++ 2020 Coding Challenge
+
+## To access:
+
+1) Download the repository
+2) Navigate to the repository through a command line and run 'npm install'
+3) Run 'npm start'
+
 ## Before You Begin
 
 Congrats!! You have been selected to engage in the next step of the Change++ interview process. The next step in our application process is completing the following coding project. As we are unable to offer interviews to every applicant, we will use this challenge to evaluate a number of criteria including technical skills and commitment to Change++. We expect this to take between 2-6 hours depending on experience level and technical skills. We recognize that you are all busy, but as a member of a Change++ team it is expected that you will dedicate 4-6 hours every week working on your project; therefore, we believe this is a reasonable timeframe.
